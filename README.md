@@ -1,4 +1,4 @@
-#Instagram Follower Bot
+# Instagram Follower Bot
 
 This bot works very simply.
 Change the 'similar' account to the account that's similar to the brand you're developing.
@@ -9,4 +9,4 @@ The goal of this is to follow enough people, in hopes that some people follow ba
 
 Then the script can be reversed to unfollow everyone on your profile to have a clean slate.
 
-#Youtube Demo Video: https://www.youtube.com/watch?v=sZ1Q-SKEZak
+Youtube Demo Video: https://www.youtube.com/watch?v=sZ1Q-SKEZak
